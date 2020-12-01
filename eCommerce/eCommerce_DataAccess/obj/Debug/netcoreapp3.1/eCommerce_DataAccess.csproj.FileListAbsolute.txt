@@ -1,0 +1,17 @@
+C:\Users\sshen\source\repos\eCommerce\eCommerce_DataAccess\bin\Debug\netcoreapp3.1\eCommerce_DataAccess.deps.json
+C:\Users\sshen\source\repos\eCommerce\eCommerce_DataAccess\bin\Debug\netcoreapp3.1\eCommerce_DataAccess.dll
+C:\Users\sshen\source\repos\eCommerce\eCommerce_DataAccess\bin\Debug\netcoreapp3.1\eCommerce_DataAccess.pdb
+C:\Users\sshen\source\repos\eCommerce\eCommerce_DataAccess\obj\Debug\netcoreapp3.1\eCommerce_DataAccess.AssemblyInfoInputs.cache
+C:\Users\sshen\source\repos\eCommerce\eCommerce_DataAccess\obj\Debug\netcoreapp3.1\eCommerce_DataAccess.AssemblyInfo.cs
+C:\Users\sshen\source\repos\eCommerce\eCommerce_DataAccess\obj\Debug\netcoreapp3.1\eCommerce_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\sshen\source\repos\eCommerce\eCommerce_DataAccess\obj\Debug\netcoreapp3.1\eCommerce_DataAccess.dll
+C:\Users\sshen\source\repos\eCommerce\eCommerce_DataAccess\obj\Debug\netcoreapp3.1\eCommerce_DataAccess.pdb
+C:\Users\sshen\source\repos\eCommerce\eCommerce_DataAccess\bin\Debug\netcoreapp3.1\eCommerce_Model.dll
+C:\Users\sshen\source\repos\eCommerce\eCommerce_DataAccess\bin\Debug\netcoreapp3.1\eCommerce_Model.pdb
+C:\Users\sshen\source\repos\eCommerce\eCommerce_DataAccess\obj\Debug\netcoreapp3.1\eCommerce_DataAccess.csprojAssemblyReference.cache
+C:\Users\sshen\source\repos\eCommerce\eCommerce_DataAccess\obj\Debug\netcoreapp3.1\eCommerce_DataAccess.csproj.CopyComplete
+C:\Users\sshen\source\repos\eCommerce\eCommerce_DataAccess\bin\Debug\netcoreapp3.1\eCommerce_DataAccess.runtimeconfig.json
+C:\Users\sshen\source\repos\eCommerce\eCommerce_DataAccess\bin\Debug\netcoreapp3.1\eCommerce_DataAccess.runtimeconfig.dev.json
+C:\Users\sshen\source\repos\eCommerce\eCommerce_DataAccess\obj\Debug\netcoreapp3.1\eCommerce_DataAccess.genruntimeconfig.cache
+C:\Users\sshen\source\repos\eCommerce\eCommerce_DataAccess\bin\Debug\netcoreapp3.1\eCommerce_Utility.dll
+C:\Users\sshen\source\repos\eCommerce\eCommerce_DataAccess\bin\Debug\netcoreapp3.1\eCommerce_Utility.pdb

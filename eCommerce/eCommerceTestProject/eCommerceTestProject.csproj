@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoFixture.AutoMoq" Version="4.14.0" />
+    <PackageReference Include="JustMock" Version="2020.3.1124.2" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.5.0" />
+    <PackageReference Include="Moq" Version="4.15.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="System.Net.Http" Version="4.3.4" />
+    <PackageReference Include="System.Runtime" Version="4.3.1" />
+    <PackageReference Include="xunit" Version="2.4.0" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.4.0" />
+    <PackageReference Include="coverlet.collector" Version="1.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\eCommerce\eCommerce.csproj" />
+    <ProjectReference Include="..\eCommerce_DataAccess\eCommerce_DataAccess.csproj" />
+    <ProjectReference Include="..\eCommerce_Model\eCommerce_Model.csproj" />
+    <ProjectReference Include="..\eCommerce_Utility\eCommerce_Utility.csproj" />
+  </ItemGroup>
+
+</Project>

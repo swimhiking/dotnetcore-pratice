@@ -1,0 +1,245 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sshen\\OneDrive\\Documents\\GitHub\\dotnetcore-pratice\\eCommerce\\eCommerce_DataAccess\\eCommerce_DataAccess.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sshen\\OneDrive\\Documents\\GitHub\\dotnetcore-pratice\\eCommerce\\eCommerce_DataAccess\\eCommerce_DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sshen\\OneDrive\\Documents\\GitHub\\dotnetcore-pratice\\eCommerce\\eCommerce_DataAccess\\eCommerce_DataAccess.csproj",
+        "projectName": "eCommerce_DataAccess",
+        "projectPath": "C:\\Users\\sshen\\OneDrive\\Documents\\GitHub\\dotnetcore-pratice\\eCommerce\\eCommerce_DataAccess\\eCommerce_DataAccess.csproj",
+        "packagesPath": "C:\\Users\\sshen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sshen\\OneDrive\\Documents\\GitHub\\dotnetcore-pratice\\eCommerce\\eCommerce_DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sshen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "netcoreapp5.0",
+            "projectReferences": {
+              "C:\\Users\\sshen\\OneDrive\\Documents\\GitHub\\dotnetcore-pratice\\eCommerce\\eCommerce_Model\\eCommerce_Model.csproj": {
+                "projectPath": "C:\\Users\\sshen\\OneDrive\\Documents\\GitHub\\dotnetcore-pratice\\eCommerce\\eCommerce_Model\\eCommerce_Model.csproj"
+              },
+              "C:\\Users\\sshen\\OneDrive\\Documents\\GitHub\\dotnetcore-pratice\\eCommerce\\eCommerce_Utility\\eCommerce_Utility.csproj": {
+                "projectPath": "C:\\Users\\sshen\\OneDrive\\Documents\\GitHub\\dotnetcore-pratice\\eCommerce\\eCommerce_Utility\\eCommerce_Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "netcoreapp5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Identity.Core": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sshen\\OneDrive\\Documents\\GitHub\\dotnetcore-pratice\\eCommerce\\eCommerce_Model\\eCommerce_Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sshen\\OneDrive\\Documents\\GitHub\\dotnetcore-pratice\\eCommerce\\eCommerce_Model\\eCommerce_Model.csproj",
+        "projectName": "eCommerce_Model",
+        "projectPath": "C:\\Users\\sshen\\OneDrive\\Documents\\GitHub\\dotnetcore-pratice\\eCommerce\\eCommerce_Model\\eCommerce_Model.csproj",
+        "packagesPath": "C:\\Users\\sshen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sshen\\OneDrive\\Documents\\GitHub\\dotnetcore-pratice\\eCommerce\\eCommerce_Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sshen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "netcoreapp5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "netcoreapp5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Identity.Core": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sshen\\OneDrive\\Documents\\GitHub\\dotnetcore-pratice\\eCommerce\\eCommerce_Utility\\eCommerce_Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sshen\\OneDrive\\Documents\\GitHub\\dotnetcore-pratice\\eCommerce\\eCommerce_Utility\\eCommerce_Utility.csproj",
+        "projectName": "eCommerce_Utility",
+        "projectPath": "C:\\Users\\sshen\\OneDrive\\Documents\\GitHub\\dotnetcore-pratice\\eCommerce\\eCommerce_Utility\\eCommerce_Utility.csproj",
+        "packagesPath": "C:\\Users\\sshen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sshen\\OneDrive\\Documents\\GitHub\\dotnetcore-pratice\\eCommerce\\eCommerce_Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sshen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "netcoreapp5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "netcoreapp5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Extensions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

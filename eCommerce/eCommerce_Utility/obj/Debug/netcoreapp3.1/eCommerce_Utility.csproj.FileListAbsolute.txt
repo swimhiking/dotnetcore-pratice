@@ -1,0 +1,9 @@
+C:\Users\sshen\source\repos\eCommerce\eCommerce_Utility\bin\Debug\netcoreapp3.1\eCommerce_Utility.deps.json
+C:\Users\sshen\source\repos\eCommerce\eCommerce_Utility\bin\Debug\netcoreapp3.1\eCommerce_Utility.dll
+C:\Users\sshen\source\repos\eCommerce\eCommerce_Utility\bin\Debug\netcoreapp3.1\eCommerce_Utility.pdb
+C:\Users\sshen\source\repos\eCommerce\eCommerce_Utility\obj\Debug\netcoreapp3.1\eCommerce_Utility.csprojAssemblyReference.cache
+C:\Users\sshen\source\repos\eCommerce\eCommerce_Utility\obj\Debug\netcoreapp3.1\eCommerce_Utility.AssemblyInfoInputs.cache
+C:\Users\sshen\source\repos\eCommerce\eCommerce_Utility\obj\Debug\netcoreapp3.1\eCommerce_Utility.AssemblyInfo.cs
+C:\Users\sshen\source\repos\eCommerce\eCommerce_Utility\obj\Debug\netcoreapp3.1\eCommerce_Utility.csproj.CoreCompileInputs.cache
+C:\Users\sshen\source\repos\eCommerce\eCommerce_Utility\obj\Debug\netcoreapp3.1\eCommerce_Utility.dll
+C:\Users\sshen\source\repos\eCommerce\eCommerce_Utility\obj\Debug\netcoreapp3.1\eCommerce_Utility.pdb
